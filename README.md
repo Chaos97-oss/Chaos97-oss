@@ -10,7 +10,7 @@ Welcome to my GitHub space — where I break things to learn how to fix them bet
 - 👯 Open to collaborate on: Backend-heavy open-source projects
 - 🤔 Looking for help with: Microservices and scaling APIs
 - 💬 Ask me about: JavaScript | Express.js | MongoDB | REST APIs | Node.js
-- - ⚡ Fun fact: Developer at night 🌙 / Marathoner by dawn 🏃‍♂️ / Boxer at noon 🥊 + ☕
+- ⚡ Fun fact: Developer at night 🌙 / Marathoner by dawn 🏃‍♂️ / Boxer at noon 🥊 + ☕
 - 📫 Reach me at: **udegbuepaul43@gmail.com**
 
 ## 🛠️ Tech Stack
