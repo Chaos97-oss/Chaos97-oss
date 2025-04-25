@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi there 👋 I'm Chaos
 
-<!--
-**Chaos97-oss/Chaos97-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey there, I'm Chaos97!
 
-Here are some ideas to get you started:
+Welcome to my GitHub space — where I break things to learn how to fix them better 😎
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🔭 Currently working on: Full-stack backend APIs, ride-sharing platforms & E-commerce Building
+- 🌱 Currently learning: React, Advanced Node.js, MongoDB performance, and system design
+- 👯 Open to collaborate on: Backend-heavy open-source projects
+- 🤔 Looking for help with: Microservices and scaling APIs
+- 💬 Ask me about: JavaScript | Express.js | MongoDB | REST APIs | Node.js
+- - ⚡ Fun fact: Developer at night 🌙 / Marathoner by dawn 🏃‍♂️ / Boxer at noon 🥊 + ☕
+- 📫 Reach me at: **udegbuepaul43@gmail.com**
+
+## 🛠️ Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
+
+## 📊 GitHub Stats
+
+![Chaos97's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chaos97-oss&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaos97-oss&layout=compact&theme=radical)
+
+---
+
+_Thanks for stopping by!_ ✨
+
