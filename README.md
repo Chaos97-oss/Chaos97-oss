@@ -11,6 +11,7 @@ Welcome to my GitHub space — where I break things to learn how to fix them bet
 - 🤔 Looking for help with: Microservices and scaling APIs
 - 💬 Ask me about: JavaScript | Express.js | MongoDB | REST APIs | Node.js
 - ⚡ Fun fact: Developer at night 🌙 / Marathoner by dawn 🏃‍♂️ / Boxer at noon 🥊 + ☕
+- 🗄 Portfolio: https://personal-portfolio-zeta-flame.vercel.app/index.html
 - 📫 Reach me at: **udegbuepaul43@gmail.com**
 
 ## 🛠️ Tech Stack
