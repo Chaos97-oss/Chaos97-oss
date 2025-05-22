@@ -7,9 +7,6 @@
   </a>
 </p>
 <!-- Animation Typing: END -->
-
-
-
 Welcome to my GitHub space — where I break things to learn how to fix them better 😎
 
 ## 🚀 About Me
