@@ -31,6 +31,9 @@ Welcome to my GitHub space — where I break things to learn how to fix them bet
 
 ![Chaos97's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chaos97-oss&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaos97-oss&layout=compact&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=YourUsername)](https://git.io/streak-stats)
+
+
 
 ---
 
