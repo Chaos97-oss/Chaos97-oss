@@ -26,7 +26,7 @@ Welcome to my GitHub space — where I break things to learn how to fix them bet
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
-
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=MySQL)
 ## 📊 GitHub Stats
 
 ![Chaos97's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chaos97-oss&show_icons=true&theme=radical)
