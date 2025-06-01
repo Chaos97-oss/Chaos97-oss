@@ -24,9 +24,10 @@ Welcome to my GitHub space — where I break things to learn how to fix them bet
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=MySQL)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=MySQL)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
 ## 📊 GitHub Stats
 
 ![Chaos97's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chaos97-oss&show_icons=true&theme=radical)
