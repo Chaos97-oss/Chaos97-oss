@@ -21,10 +21,10 @@ Welcome to my GitHub space — where I break things to learn how to fix them bet
 
 ## 🛠️ Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=openjdk&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
-![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=MySQL)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
