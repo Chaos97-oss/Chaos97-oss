@@ -27,7 +27,7 @@ Welcome to my GitHub space — where I break things to learn how to fix them bet
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=MySQL)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
+![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=openjdk&logoColor=white)
 ## 📊 GitHub Stats
 
 ![Chaos97's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chaos97-oss&show_icons=true&theme=radical)
