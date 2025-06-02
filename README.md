@@ -18,7 +18,7 @@ Welcome to my GitHub space — where I break things to learn how to fix them bet
 - ⚡ Fun fact: Developer at night 🌙 / Marathoner by dawn 🏃‍♂️ / Boxer at noon 🥊 + ☕
 - 🗄 Portfolio: https://personal-portfolio-zeta-flame.vercel.app/index.html
 - 📫 Reach me at: **udegbuepaul43@gmail.com**
-- 💼 LinkedIn: **//https:linkedin.com/in/paul-udegbue-2694a0147**
+- 💼 LinkedIn: **https://linkedin.com/in/paul-udegbue-2694a0147**
 - 🐦 Twitter: **https://x.com/Hisroyalobolo**
 
 
