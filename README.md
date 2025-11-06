@@ -3,7 +3,7 @@
 <!-- Animation Typing -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3498DB&center=true&vCenter=true&width=700&lines=I'm+Paul+Udegbue+(Chaos97);Backend+Developer+%7C+Marathoner+%7C+Boxer;Welcome+to+my+GitHub+space!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3498DB&center=true&vCenter=true&width=700&lines=I'm+Paul+Udegbue+(Chaos97);Software+Engineer+%7C+Marathoner+%7C+Boxer;Welcome+to+my+GitHub+space!">
   </a>
 </p>
 <!-- Animation Typing: END -->
@@ -15,11 +15,11 @@
 
 
 ## 🚀 About Me
-- 🔭 Currently working on: Full-stack backend APIs, ride-sharing platforms & E-commerce Building
-- 🌱 Currently learning: React, Advanced Node.js, MongoDB performance, and system design
-- 👯 Open to collaborate on: Backend-heavy open-source projects
-- 🤔 Looking for help with: Microservices and scaling APIs
-- 💬 Ask me about: SpringBoot | Express.js | MongoDB | REST APIs | Swift UI
+- 🔭 Currently working on: Scalable Fintech backend APIs, ride-sharing platforms & E-commerce Building
+- 🌱 Currently learning: IOS Story-Board, Jetpack Compose, Database performance, and system design
+- 👯 Open to collaborate on: Mobile & Backend-heavy open-source projects
+- 🤔 Looking for help with Microservices and scaling APIs ? I'm your Guy
+- 💬 Ask me about: SpringBoot | Express.js | MongoDB | REST APIs | Swift UI | Kotlin
 - ⚡ Fun fact: Developer at night 🌙 / Marathoner by dawn 🏃‍♂️ / Boxer at noon 🥊 + ☕
 - 🗄 Portfolio: https://personal-portfolio-zeta-flame.vercel.app/index.html
 - 📫 Reach me at: **udegbuepaul43@gmail.com**
