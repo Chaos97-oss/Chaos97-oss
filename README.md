@@ -7,7 +7,7 @@
   </a>
 </p>
 <!-- Animation Typing: END -->
-Welcome to my GitHub space — where I break things to learn how to fix them better 😎
+
 
 <div align="center">
   <img src="https://camo.githubusercontent.com/4c3fd71b359cd5dfadc21247cde8f16ecbe5d41db8ac79ef28e3091ab02a8bef/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f3831626234623136353638343031392e363430623630333864313333652e676966" alt="Cool animation" width="700" />
@@ -19,7 +19,7 @@ Welcome to my GitHub space — where I break things to learn how to fix them bet
 - 🌱 Currently learning: React, Advanced Node.js, MongoDB performance, and system design
 - 👯 Open to collaborate on: Backend-heavy open-source projects
 - 🤔 Looking for help with: Microservices and scaling APIs
-- 💬 Ask me about: JavaScript | Express.js | MongoDB | REST APIs | Node.js
+- 💬 Ask me about: SpringBoot | Express.js | MongoDB | REST APIs | Swift UI
 - ⚡ Fun fact: Developer at night 🌙 / Marathoner by dawn 🏃‍♂️ / Boxer at noon 🥊 + ☕
 - 🗄 Portfolio: https://personal-portfolio-zeta-flame.vercel.app/index.html
 - 📫 Reach me at: **udegbuepaul43@gmail.com**
