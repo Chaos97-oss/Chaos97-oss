@@ -10,9 +10,12 @@
 
 <!-- Animation Photo: START -->
 <div align="center">
-  <img src="https://camo.githubusercontent.com/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f68642f3232383733353133373131393831312e363230353437323462616630622e676966" alt="Cool animation" width="700" />
+  <img 
+    src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/228735137119811.62054724baf0b.gif"
+    alt="Pixel workspace animation"
+    width="700"
+  />
 </div>
-
 <!-- Animation Photo: END -->
 ## 🚀 About Me
 - 🔭 Currently working on: Scalable Fintech backend APIs, ride-sharing platforms & E-commerce Building
