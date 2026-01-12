@@ -8,12 +8,12 @@
 </p>
 <!-- Animation Typing: END -->
 
-
+<!-- Animation Photo: START -->
 <div align="center">
   <img src="https://camo.githubusercontent.com/4c3fd71b359cd5dfadc21247cde8f16ecbe5d41db8ac79ef28e3091ab02a8bef/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f3831626234623136353638343031392e363430623630333864313333652e676966" alt="Cool animation" width="700" />
 </div>
 
-
+<!-- Animation Photo: END -->
 ## 🚀 About Me
 - 🔭 Currently working on: Scalable Fintech backend APIs, ride-sharing platforms & E-commerce Building
 - 🌱 Currently learning: IOS Story-Board, Jetpack Compose, Database performance, and system design
