@@ -9,14 +9,10 @@
 <!-- Animation Typing: END -->
 
 <!-- Animation Photo: START -->
-<div align="center">
-  <img 
-    src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/228735137119811.62054724baf0b.gif"
-    alt="Pixel workspace animation"
-    width="700"
-  />
-</div>
+![Pixel workspace animation](https://mir-s3-cdn-cf.behance.net/project_modules/hd/228735137119811.62054724baf0b.gif)
 <!-- Animation Photo: END -->
+
+
 ## 🚀 About Me
 - 🔭 Currently working on: Scalable Fintech backend APIs, ride-sharing platforms & E-commerce Building
 - 🌱 Currently learning: IOS Story-Board, Jetpack Compose, Database performance, and system design
