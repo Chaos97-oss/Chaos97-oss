@@ -45,8 +45,8 @@
 ## 📊 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=chaos97-oss)](https://git.io/streak-stats)
-![Chaos97's GitHub stats](https://github-readme-stats-nine-sandy-68.vercel.app/api?username=Chaos97-oss&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats-nine-sandy-68.vercel.app/api/top-langs/?username=Chaos97-oss&layout=compact&theme=radical)
+![Chaos97's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chaos97-oss&show_icons=true&theme=radical&cache_seconds=86400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaos97-oss&layout=compact&theme=radical&cache_seconds=86400)
 
 
 
