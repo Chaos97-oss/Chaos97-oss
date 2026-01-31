@@ -17,7 +17,7 @@
 - 🔭 Currently working on: Scalable Fintech backend APIs, ride-sharing platforms & E-commerce Building
 - 🌱 Currently learning: IOS Story-Board, Jetpack Compose, Database performance, and system design
 - 👯 Open to collaborate on: Mobile & Backend-heavy open-source projects
-- 🤔 Looking for help with Microservices and scaling APIs ? I'm your Guy
+-  Looking for help with Microservices and scaling APIs ? I'm your Guy
 - 💬 Ask me about: SpringBoot | Express.js | MongoDB | REST APIs | Swift UI | Kotlin
 - ⚡ Fun fact: Developer at night 🌙 / Marathoner by dawn 🏃‍♂️ / Boxer at noon 🥊 + ☕
 - 🗄 Portfolio: https://personal-portfolio-zeta-flame.vercel.app/index.html
