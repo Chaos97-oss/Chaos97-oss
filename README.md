@@ -13,13 +13,18 @@
 <!-- Animation Photo: END -->
 
 
-## 🚀 About Me
-- 🔭 Currently working on: Scalable Fintech backend APIs, ride-sharing platforms & E-commerce Building
-- 🌱 Currently learning: IOS Story-Board, Jetpack Compose, Database performance, and system design
-- 👯 Open to collaborate on: Mobile & Backend-heavy open-source projects
+##  About Me
+- Backend-focused engineer with experience building scalable REST APIs, microservices & fintech systems using Spring Boot, .NET Core / C#,
+  Express.js + MongoDB/PostgreSQL. I design for high throughput, observability & maintainability
+- Architecture & decisions — "I favor hexagonal/clean architecture, DDD boundaries when complexity grows, event-driven patterns (Kafka/RabbitMQ)   for async flows."
+  "Happy to review PRs or pair on system design, scaling strategies, testing pyramids."
+- 2026 learning/focus — "Deepening distributed systems, observability (OpenTelemetry + Grafana), zero-downtime deployments."
 -  Looking for help with Microservices and scaling APIs ? I'm your Guy
-- 💬 Ask me about: SpringBoot | Express.js | MongoDB | REST APIs | Swift UI | Kotlin
-- ⚡ Fun fact: Developer at night 🌙 / Marathoner by dawn 🏃‍♂️ / Boxer at noon 🥊 + ☕
+-  Ask me about: SpringBoot | Express.js | Kotlin | MongoDB | REST APIs | Swift UI| C#
+
+
+
+- Fun fact: Developer at night / Marathoner by dawn 🏃‍♂️ / Boxer at noon 🥊 
 - 🗄 Portfolio: https://personal-portfolio-zeta-flame.vercel.app/index.html
 - 📫 Reach me at: **udegbuepaul43@gmail.com**
 - 💼 LinkedIn: **https://linkedin.com/in/paul-udegbue-2694a0147**
@@ -53,7 +58,7 @@
 
 
 
----
 
-_Thanks for stopping by!!!_ ✨
+
+
 
