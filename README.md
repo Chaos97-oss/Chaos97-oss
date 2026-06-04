@@ -14,6 +14,7 @@
 
 
 ##  About Me
+- Former Core Backend Engineer for the production-ready build of Monifrap (via Lynog Tech Nig Ltd). Designed a secure, high-throughput financial system leveraging Java Spring Boot and Apache Fineract, Implemented secure compliance onboarding workflows and open-banking integrations via Mono API under strict NDA guidelines.
 - Backend-focused engineer with experience building scalable REST APIs, microservices & fintech systems using Spring Boot, .NET Core / C#,
   Express.js + MongoDB/PostgreSQL. I design for high throughput, observability & maintainability
 - Architecture & decisions — I favor hexagonal/clean architecture, DDD boundaries when complexity grows, event-driven patterns (Kafka/RabbitMQ)   for async flows.
@@ -29,6 +30,7 @@
 - 📫 Reach me at: **udegbuepaul43@gmail.com**
 - 💼 LinkedIn: **https://linkedin.com/in/paul-udegbue-2694a0147**
 - 🐦 Twitter: **https://x.com/Hisroyalobolo**
+
 
 
 ## 🛠️ Tech Stack
