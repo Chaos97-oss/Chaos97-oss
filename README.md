@@ -30,6 +30,7 @@
 - 📫 Reach me at: **udegbuepaul43@gmail.com**
 - 💼 LinkedIn: **https://linkedin.com/in/paul-udegbue-2694a0147**
 - 🐦 Twitter: **https://x.com/Hisroyalobolo**
+- 🏃‍♂️ Strava: **http://strava.com/athletes/136267255?utm_source=ios_share&utm_medium=social&share_sig=514A05C51781363247&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXLy4pSixL1EssKNDLyczL1g%2F3MShPTHPNCTdOsq8rSk1LLSrKzEuPTyrKLy9OLbL1zU%2FKzElVNTIITkxLLMoEAJCSwepGAAAA&_branch_match_id=1465327862546594241**
 
 
 
