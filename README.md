@@ -57,10 +57,11 @@
   <a href="https://strava.com">
     <img src="https://shields.io" alt="Strava Profile">
   </a>
-  <img src="https://shields.io" alt="4%3A15%3A42">
-  <img src="https://shields.io" alt="2%4C30_km">
-  <img src="https://shields.io" alt="Sub_3_Hour">
+  <img src="https://shields.io" alt="Marathon PR">
+  <img src="https://shields.io" alt="YTD Distance">
+  <img src="https://shields.io" alt="Current Goal">
 </p>
+
 
 
 ## 📊 GitHub Stats
