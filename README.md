@@ -14,7 +14,15 @@
 
 
 ##  About Me
+-Core Backend / Founding Engineer for Adiba Banking Cloud at Turog Technologies, contributing to the production-ready backend platform for banking workflow and decision automation. Designed and implemented Java-based process orchestration around Camunda BPM, including multi-tenant BPMN process lifecycle management, process execution, task operations, process-definition versioning, BPMN retrieval, and controlled workflow mutations.
+Built the DMN decisioning platform supporting decision definition/version management, rule and input modelling, activation/deployment, evaluation and simulation, decision history, evaluation logs, DMN XML generation/retrieval, and tenant-isolated decision operations.
+Established application-layer boundaries between REST controllers, services, focused ports, and infrastructure adapters, keeping Camunda-specific runtime concerns isolated from the application/domain layers while integrating MSF4J, Camunda 7.23, PostgreSQL, Maven, and WSO2-based JWT security.
+Implemented tenant-aware access controls and gateway-trusted JWT identity handling across process and decision APIs, with controlled error mapping, authenticated actor propagation, audit events, and cross-tenant isolation checks.
+Delivered comprehensive automated coverage for process, task, process-definition, decision, DMN, tenancy, security, and integration behavior, finishing the implementation with 773 automated tests with 0 failures and 0 errors in the final regression suite.
+Worked incrementally within an inherited production codebase, applying controlled architectural changes without broad rewrites while preserving existing contracts, runtime behavior, and deployment stability.
+
 - Former Core Backend Engineer for the production-ready build of Monifrap (via Lynog Tech Nig Ltd). Designed a secure, high-throughput financial system leveraging Java Spring Boot and Apache Fineract, Implemented secure compliance onboarding workflows and open-banking integrations via Mono API under strict NDA guidelines.
+
 - Backend-focused engineer with experience building scalable REST APIs, microservices & fintech systems using Spring Boot, .NET Core / C#,
   Express.js + MongoDB/PostgreSQL. I design for high throughput, observability & maintainability
 - Architecture & decisions — I favor hexagonal/clean architecture, DDD boundaries when complexity grows, event-driven patterns (Kafka/RabbitMQ)   for async flows.
