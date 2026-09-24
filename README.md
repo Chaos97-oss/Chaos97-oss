@@ -14,12 +14,12 @@
 
 
 ##  About Me
-- Core Backend / Founding Engineer for Adiba Banking Cloud at Turog Technologies, contributing to the production-ready backend platform for banking workflow and decision automation. Designed and implemented Java-based process orchestration around Camunda BPM, including multi-tenant BPMN process lifecycle management, process execution, task operations, process-definition versioning, BPMN retrieval, and controlled workflow mutations.
- Built the DMN decisioning platform supporting decision definition/version management, rule and input modelling, activation/deployment, evaluation and simulation, decision history, evaluation logs, DMN XML generation/retrieval, and tenant-isolated decision operations.
-Established application-layer boundaries between REST controllers, services, focused ports, and infrastructure adapters, keeping Camunda-specific runtime concerns isolated from the application/domain layers while integrating MSF4J, Camunda 7.23, PostgreSQL, Maven, and WSO2-based JWT security.
- Implemented tenant-aware access controls and gateway-trusted JWT identity handling across process and decision APIs, with controlled error mapping, authenticated actor propagation, audit events, and cross-tenant isolation checks.
-Delivered comprehensive automated coverage for process, task, process-definition, decision, DMN, tenancy, security, and integration behavior, finishing the implementation with 773 automated tests with 0 failures and 0 errors in the final regression suite.
- Worked incrementally within an inherited production codebase, applying controlled architectural changes without broad rewrites while preserving existing contracts, runtime behavior, and deployment stability.
+- Core Backend / Founding Engineer for Adiba Banking Cloud at Turog Technologies, contributing to a production backend platform for banking workflow and decision automation. Designed and implemented Java-based process orchestration using Camunda BPM, covering BPMN process lifecycle management, process execution, task operations, process-definition management, and workflow operations.
+Built the DMN decisioning platform supporting decision definitions, versions, rules, inputs, activation, evaluation, simulation, history, and tenant-aware decision operations.
+Established clean application boundaries across REST controllers, services, ports, and infrastructure adapters while integrating Java, MSF4J, Camunda, PostgreSQL, Maven, and WSO2-based authentication.
+Implemented multi-tenant API behavior, authentication integration, audit capabilities, and automated validation across process and decision workflows.
+Delivered broad automated test coverage across process, task, BPMN, DMN, tenancy, security, and integration behavior.
+Worked incrementally within an inherited production codebase, introducing architectural improvements without broad rewrites while preserving existing contracts and runtime stability.
 
 - Former Core Backend Engineer for the production-ready build of Monifrap (via Lynog Tech Nig Ltd). Designed a secure, high-throughput financial system leveraging Java Spring Boot and Apache Fineract, Implemented secure compliance onboarding workflows and open-banking integrations via Mono API under strict NDA guidelines.
 
@@ -29,7 +29,7 @@ Delivered comprehensive automated coverage for process, task, process-definition
   Happy to review PRs or pair on system design, scaling strategies, testing pyramids.
 - 2026 learning/focus — Deepening distributed systems, observability (OpenTelemetry + Grafana), zero-downtime deployments.
 -  Looking for help with Microservices and scaling APIs ? I'm your Guy
--  Ask me about: SpringBoot | Express.js | Kotlin | MongoDB | REST APIs | Swift UI| C#
+-  Ask me about: MSF4J | SpringBoot | Express.js | Kotlin | MongoDB | REST APIs | Swift UI| C#
 
 
 
