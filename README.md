@@ -62,6 +62,7 @@ Worked incrementally within an inherited production codebase, introducing archit
 ![MSF4J](https://img.shields.io/badge/-MSF4J-black?style=flat-square&logo=apache)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
 ![Postgresql](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![Bruno](https://img.shields.io/badge/-Bruno-black?style=flat-square&logo=bruno)
 ## 🏃‍♂️ Athlete Profile (Marathon)
 <p align="left">
   <a href="https://strava.com">
