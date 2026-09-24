@@ -60,7 +60,7 @@ Worked incrementally within an inherited production codebase, introducing archit
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel&logoColor=white)
 ![Camunda](https://img.shields.io/badge/-Camunda-black?style=flat-square&logo=camunda)
 ![MSF4J](https://img.shields.io/badge/-MSF4J-black?style=flat-square&logo=apache)
-
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
 
 ## 🏃‍♂️ Athlete Profile (Marathon)
 <p align="left">
