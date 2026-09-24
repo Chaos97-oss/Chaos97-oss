@@ -58,7 +58,8 @@ Worked incrementally within an inherited production codebase, introducing archit
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
 ![Render](https://img.shields.io/badge/-Render-black?style=flat-square&logo=render&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel&logoColor=white)
-
+![Camunda](https://img.shields.io/badge/-Camunda-black?style=flat-square&logo=camunda)
+![MSF4J](https://img.shields.io/badge/-MSF4J-black?style=flat-square&logo=apache)
 
 
 ## 🏃‍♂️ Athlete Profile (Marathon)
