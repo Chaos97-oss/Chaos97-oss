@@ -61,7 +61,7 @@ Worked incrementally within an inherited production codebase, introducing archit
 ![Camunda](https://img.shields.io/badge/-Camunda-black?style=flat-square&logo=camunda)
 ![MSF4J](https://img.shields.io/badge/-MSF4J-black?style=flat-square&logo=apache)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
-
+![Postgresql](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ## 🏃‍♂️ Athlete Profile (Marathon)
 <p align="left">
   <a href="https://strava.com">
